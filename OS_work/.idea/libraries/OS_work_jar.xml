@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="OS_work_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/OS_work_jar/swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/OS_work_jar/OS_work.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
